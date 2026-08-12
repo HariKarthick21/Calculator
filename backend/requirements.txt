@@ -3,7 +3,6 @@ Django==5.2.17
 django-cors-headers==4.9.0
 djangorestframework==3.18.0
 gunicorn==23.0.0
-mysqlclient==2.2.8
 packaging==26.3
 python-decouple==3.8
 sqlparse==0.5.5
